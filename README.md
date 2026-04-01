@@ -1,11 +1,5 @@
 Version 5 based on Kuba's dirty [fork](https://github.com/IoTLabs-pl/esphome-components).
 
-> **_NOTE:_**  Component with CC1101 support is here:
-[version 4](https://github.com/SzczepanLeon/esphome-components/tree/version_4)
-[version 3](https://github.com/SzczepanLeon/esphome-components/tree/version_3)
-[version 2](https://github.com/SzczepanLeon/esphome-components/tree/version_2)
-
-
 # TODO:
 - Prepare packages for ready made boards (like UltimateReader) with displays, leds etc.
 - Aggresive cleanup of wmbusmeters classes/structs
